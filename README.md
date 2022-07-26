@@ -18,4 +18,4 @@ For Level 85 gear (before reforge):<br>
 
 > Currently WIP, program only calculates Level 85 gears regardless of what you pick on the drop-down and also fixing some inaccurate reading
 
-###### Note: Please email at adeptfrog@gmail.com about any inaccuracy or bugs so we can fix those and prevent misinformation, thank you!
+###### Note: Please email me at adeptfrog@gmail.com about any inaccuracy or bugs so we can fix those and prevent misinformation, thank you!
