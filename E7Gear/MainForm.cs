@@ -109,10 +109,10 @@ namespace E7Gear {
                                 if (Regex.IsMatch(line, stat)) {
                                     string statValue = line.Substring(line.IndexOf(stat) + stat.Length).Trim();
                                     bool isPercentage = statValue.Contains('%');
-                                    statValue = Regex.Replace(statValue, @"\D", "");
 
-                                    // Remove non-numeric characters at the start and end except the '%',
-                                    // Useful for modified gears and noisy read
+                                    // Remove non-numeric characters at the start and end,
+                                    // Useful for modified gears, 1000+ gear stats, and noisy read
+                                    statValue = Regex.Replace(statValue, @"\D", "");
                                     int statNumber = int.Parse(statValue);
                                     gearValue[currentGearStatIndex].Value = statNumber;
 
