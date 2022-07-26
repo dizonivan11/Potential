@@ -7,7 +7,7 @@ An automatic gear score calculator for the game called *Epic Seven*. The program
 
 ## Formula
 
-For Level 85 gear (before reforge):
+For Level 85 gear (before reforge):<br>
 *ATK% + HP% + DEF% + EFF% + ER% + (CC% × 1.6) + (CD% × 1.1) + (SPD × 2) + (Flat ATK / 10) + (Flat HP / 50) + (Flat DEF / 6)*
 
 ###### [Formula Source](https://artistalley7.com/blogs/guides/how-to-calculate-gear-score-in-epic-seven#explanation)
