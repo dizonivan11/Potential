@@ -1,7 +1,9 @@
 # Potential
 ## Epic Seven Automatic Gear Score Calculator
 
-<a href="https://www.repostatus.org/#wip"><img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public." /></a>
+.. image:: https://www.repostatus.org/badges/latest/active.svg
+   :alt: Project Status: Active – The project has reached a stable, usable state and is being actively developed.
+   :target: https://www.repostatus.org/#active
 
 An automatic gear score calculator for the game called *Epic Seven* that uses an OCR Library from **IronOCR**. Simply screenshot your gear stats using snipping tool then paste it on the window, the program will automatically detect stats of the gear and calculate its score.
 
