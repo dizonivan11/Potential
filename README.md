@@ -17,4 +17,4 @@ For Level 85 gear (before reforge):
 
 > Currently WIP, program only calculates Level 85 Epic gears regardless of what you pick on the drop-down and also fixing some inaccurate reading
 
-###### Note: I'm quite new to Epic Seven and
+###### Note: Please email at adeptfrog@gmail.com about any inaccuracy or bugs so we can fix those and prevent misinformation, thank you!
