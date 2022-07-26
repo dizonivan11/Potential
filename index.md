@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Potential
+## Epic Seven Automatic Gear Score Calculator
 
-You can use the [editor on GitHub](https://github.com/dizonivan11/Potential/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An automatic gear score calculator for the game called *Epic Seven*. The program uses an OCR Library from **IronOCR**. Simply screenshot your gear stats using snipping tool then paste it on the window, the program will automatically detect stats of the gear and calculate its score.
 
-### Markdown
+## Formula
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For Level 85 gear (before reforge):<br>
+*ATK% + HP% + DEF% + EFF% + ER% + (CC% × 1.6) + (CD% × 1.1) + (SPD × 2) + (Flat ATK / 10) + (Flat HP / 50) + (Flat DEF / 6)*
 
-```markdown
-Syntax highlighted code block
+###### [Formula Source](https://artistalley7.com/blogs/guides/how-to-calculate-gear-score-in-epic-seven#explanation)
 
-# Header 1
-## Header 2
-### Header 3
+## Preview
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/38268920/181093139-76894bf3-8b79-461e-8b06-27713fc43b63.png)
 
-1. Numbered
-2. List
+> Currently WIP, program only calculates Level 85 gears regardless of what you pick on the drop-down and also fixing some inaccurate reading
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dizonivan11/Potential/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###### Note: Please email me at adeptfrog@gmail.com about any inaccuracy or bugs so we can fix those and prevent misinformation, thank you!
